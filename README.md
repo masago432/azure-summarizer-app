@@ -1,1 +1,1 @@
-# azure-summarizer-app
+# 超かんたん要約メモ（Azure OpenAI）
